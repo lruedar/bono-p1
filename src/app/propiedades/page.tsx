@@ -7,7 +7,6 @@ export default function ListaPropiedades() {
       <div className="max-w-7xl mx-auto">
         <header className="mb-16">
           <h1 className="text-4xl font-bold tracking-tight text-slate-900">Directorio de Propiedades</h1>
-          <p className="text-slate-500 mt-2 font-light">Explora nuestra selección exclusiva de activos inmobiliarios.</p>
           <div className="h-1 w-20 bg-blue-600 mt-6 rounded-full"></div>
         </header>
 
